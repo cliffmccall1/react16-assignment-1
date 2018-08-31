@@ -1,0 +1,9 @@
+.UserOutput {
+  margin: 16px;
+  border: 4px dotted black;
+  padding: 16px;
+  text-align: center;
+}
+.hl {
+  background-color: yellowgreen;
+}
